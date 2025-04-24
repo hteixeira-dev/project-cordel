@@ -1,4 +1,4 @@
-# Welcome to My Project!
+# Welcome to Parallax Cordel project!
 
 This is a simple project that I am hosting on GitHub Pages. Feel free to explore the project and check out the website live!
 
