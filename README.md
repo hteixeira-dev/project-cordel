@@ -4,7 +4,7 @@ This is a simple project that I am hosting on GitHub Pages. Feel free to explore
 
 You can visit the live version of the website by clicking the link below:
 
-[Click here to view the website](https://yourusername.github.io/your-repository-name)
+[Click here to view the website](https://hteixeira-dev.github.io/project-cordel)
 
 ---
 
