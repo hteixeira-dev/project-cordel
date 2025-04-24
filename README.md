@@ -1,0 +1,15 @@
+# Welcome to My Project!
+
+This is a simple project that I am hosting on GitHub Pages. Feel free to explore the project and check out the website live!
+
+You can visit the live version of the website by clicking the link below:
+
+[Click here to view the website](https://yourusername.github.io/your-repository-name)
+
+---
+
+### Stay Connected
+
+You can also follow me on GitHub to stay updated with my latest projects and contributions:
+
+[Follow me on GitHub](https://github.com/hteixeira-dev)
